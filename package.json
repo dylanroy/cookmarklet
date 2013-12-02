@@ -1,0 +1,14 @@
+{
+  "name": "Cookmarklet",
+  "version": "0.1.0",
+  "author" : "Dylan Roy",
+  "homepage" : "www.dylanroy.com",
+  "repository" : "github.com/dkroy/cookmarklet",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-cssmin": "~0.7.0",
+    "grunt-contrib-connect" : "~0.5.0"
+  }
+}
