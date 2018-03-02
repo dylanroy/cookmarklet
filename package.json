@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author" : "Dylan Roy",
   "homepage" : "www.dylanroy.com",
-  "repository" : "github.com/dkroy/cookmarklet",
+  "repository" : "github.com/dylanroy/cookmarklet",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-jshint": "~0.6.3",
